@@ -1,4 +1,5 @@
-# Research Questions
+# LAPD Crime Analysis
+## Research Questions
 
 **Research Question 1: Predicting Crime Reporting Delays in Los Angeles**
 
